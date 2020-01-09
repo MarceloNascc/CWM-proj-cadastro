@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Marcelo Santos",
+      "email": "MarceloSantos@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Novo user",
+      "email": "novoEmail@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "J Marcelo Santos",
+      "email": "MeuEmail@yahoo.com",
+      "id": 9
+    },
+    {
+      "name": "Novo teste 2",
+      "email": "emailTeste@gmail.com",
+      "id": 10
+    }
+  ]
+}
